@@ -1,0 +1,7 @@
+table, tr:nth-child(4), td:nth-child(4) {
+  border: 2px solid black;
+}
+
+th, tr, td {
+  border: 1px solid black;
+}
